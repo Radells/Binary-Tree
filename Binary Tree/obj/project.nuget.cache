@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GJpCt9xgPvNKgQA7oJAz6eJ8ruxOWOPqbNFAFQZriqpIJgBJ3Tn5WxR99khuJZHE1Nqt9BICQx8hBfU3ezgaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Radells\\source\\repos\\Binary Tree\\Binary Tree\\Binary Tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Radells\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Radells\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
